@@ -1,7 +1,7 @@
 class Simpleft < Formula
   desc "Lightweight command-line tool designed to simplify p2p file sharing"
   homepage "https://github.com/yuqian5/simpleft"
-  url "https://github.com/yuqian5/simpleft.git", tag: "v0.0.1"
+  url "https://github.com/yuqian5/simpleft.git", tag: "v0.0.2"
   license "GPL-3.0-or-later"
   head "master"
 
