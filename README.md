@@ -2,9 +2,9 @@
 
 ## How do I install these formulae?
 
-`brew install yuqian5/simpleft/<formula>`
+`brew install yuqian5/simpleft/simpleft`
 
-Or `brew tap yuqian5/simpleft` and then `brew install <formula>`.
+Or `brew tap yuqian5/simpleft` and then `brew install simpleft`.
 
 ## Documentation
 
